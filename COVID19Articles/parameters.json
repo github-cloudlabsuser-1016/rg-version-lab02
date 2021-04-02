@@ -1,0 +1,18 @@
+{
+    "training":
+    {
+        "max_depth": 5
+    },
+    "evaluation":
+    {
+
+    },
+    "registration":
+    {
+        "tags": ["mse"]
+    },
+    "scoring":
+    {
+        
+    }
+}
